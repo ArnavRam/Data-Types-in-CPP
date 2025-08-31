@@ -39,7 +39,7 @@ int main() {
     cout << "float = " << price << "\n";
     cout << "double = " << bigValue << "\n";
     cout << "char = " << letter << "\n";
-    cout << "bool = " << flag << "\n";  // prints 0 or 1
+    cout << "bool = " << flag << "\n"; 
 
     return 0;
 }
@@ -65,4 +65,5 @@ float = 1.5
 double = 3.9273
 char = A
 bool = 1
+
 */
